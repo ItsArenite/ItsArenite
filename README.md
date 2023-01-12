@@ -1,2 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,cloudflare,deno,bots,electron,raspberrypi,unity,vite)](https://skillicons.dev)
-
+a[![My Skills](https://skillicons.dev/icons?i=js,html,css,raspberrypi,raspberrypi,netlify,github,discord)](https://skillicons.dev)
