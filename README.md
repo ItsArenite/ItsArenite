@@ -11,4 +11,4 @@ Here is my website that I list (most of) my projects on!
 You can contact me through the form on the last page of my portfolio website  
 [portfolio.qeshm.dev](https://portfolio.qeshm.dev)  
 Or on discord   
-[Arenite#1572](https://discordapp.com/users/753180530509479969)
+[ItsArenite](https://discordapp.com/users/753180530509479969)
