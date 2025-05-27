@@ -1,5 +1,5 @@
-# Heyy! 
-hi! I am Qeshm (Arenite)  
+# Hi! 
+I am Qeshm
 i'm from Singapore and i code 👍
 ## My Skills/Abilities
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,raspberrypi,netlify,github,discord)](https://skillicons.dev)  
